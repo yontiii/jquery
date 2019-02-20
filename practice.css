@@ -1,0 +1,35 @@
+.school{
+  color: #8bc34a;
+  font-size: 30pt;
+  font-weight: bolder;
+}
+h1{
+  font-size: 5em;
+  font-weight: 600;
+
+  text-align: center;
+  }
+  .services, .prep, .row{
+    display: none;
+  }
+
+button:focus:hover{
+  width: 200px;
+}
+button::before{
+  color: #ff5722;
+}
+img{
+  float: left;
+  margin: 0px;
+}
+.panel-default{
+  clear: both;
+}
+.prep{
+  margin-top: 10px;
+  padding: 10px 10px;
+  background-color: #8bc34a;
+  color: #fff;
+
+}
